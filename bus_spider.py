@@ -1,7 +1,7 @@
 '''
-@Description:GIS生产实习课程——针对动态网页的网络爬虫
+@Description:针对动态网页的网络爬虫
 @Date       :2022/01/11 14:24:13
-@Author     :zhc
+@Author     :Anatomical
 @version    :1.0
 '''
 # Chrome版本 97.0.4692.71 (正式版本)
